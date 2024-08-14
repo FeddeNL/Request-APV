@@ -1,4 +1,4 @@
-# Keybinds Wave
+# Keybinds Request
 
 
 
@@ -42,7 +42,7 @@
 ### Commands
 | **Key** | **Werking**  |
 |---|---|
-| /playtime | Je playtime te bekijken bij Wave
+| /playtime | Je playtime te bekijken bij Request
 | /report | Dien een report bij staff in
 | /emotemenu | Het menu van emote's in beeld te krijgen
 | /givecontact | Geef je telefoon nummer aan een persoon naast je
@@ -51,7 +51,7 @@
 | /id | Om je eigen id in te zien
 | /propfix | Haal een prop uit je handen
 
-### Testserver commands
+### Roleplay commands
 | **Key** | **Werking**  |
 |---|---|
 | /geldmenu | Geef jezelf cash, bank of black money

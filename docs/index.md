@@ -1,9 +1,9 @@
-# Wet- en Regelgeving Wave
+# Wet- en Regelgeving Request
 
-Welkom op de pagina voor de Wet- en Regelgeving van Wave!
-In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Wave.
+Welkom op de pagina voor de Wet- en Regelgeving van Request!
+In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Request.
 
-Zorg ervoor, dat je voor je deelneemt aan Wave, kennis hebt genomen van deze wetten.
+Zorg ervoor, dat je voor je deelneemt aan Request, kennis hebt genomen van deze wetten.
 
 - De Algemene Plaatselijke Verordening bevat alle regels die niet te maken hebben met de testserver (dit zijn zogezegd de "server regels").
 - Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken (zoals een voertuiglijst waar je kan opzoeken wat de spawn namen zijn).
@@ -14,6 +14,6 @@ Wave heeft verschillende discord servers die zijn goed gekeurd door het stadsbes
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Wave Testserver| Main discord server van Wave | [Invite](https://discord.gg/wts) |
-|Wave Support| Support discord server van Wave | [Invite](https://discord.gg/FdY7uq2pTE) |
-|Wave Onderwereld| Onderwereld discord server van Wave | [Invite](https://discord.gg/68UwpWvcEc) |
+|Request Roleplay| Main discord server van Request | [Invite](https://discord.gg/requestrp) |
+|Request Support| Support discord server van Request | [Invite](-) |
+|Request Onderwereld| Onderwereld discord server van Request | [Invite](-) |

@@ -1,8 +1,8 @@
-# Algemene Plaatselijke Verordening Wave
+# Algemene Plaatselijke Verordening Request
 
 ### Opmerkingen met betrekking tot de verordening
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij ingetrokken en vervangen door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor Request, wordt hierbij ingetrokken en vervangen door deze APV.
 
 ## Algemene Bepalingen
 

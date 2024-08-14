@@ -1,18 +1,18 @@
-site_name: Wave wet en regelgeving
+site_name: Request wet en regelgeving
 
 theme:
   name: material
   langueage: en
-  logo: logo.png
-  favicon: favicon.png
+  logo: requestlogo.png
+  favicon: requestlogo.png
  
 # Copyright
-copyright: Copyright © 2024 Wave Testserver
+copyright: Copyright © 2024 Request Roleplay
 
-site_url: https://waveapv.wavetestserver.nl
+site_url: https://requestapv.github.io
 
 repo_name: GitHub
-repo_url: https://github.com/Maurokrekels/Wave-APV
+repo_url: https://github.com/FeddeNL/Request-APV
 
 nav:
   - Home: index.md
