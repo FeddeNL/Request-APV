@@ -3,8 +3,8 @@ site_name: Request wet en regelgeving
 theme:
   name: material
   langueage: en
-  logo: requestlogo.png
-  favicon: requestlogo.png
+  logo: logo.png
+  favicon: logo.png
  
 # Copyright
 copyright: Copyright © 2024 Request Roleplay
